@@ -49,7 +49,7 @@
         <mxCell id="EIHS-fEQ6KhHvIVZfYTv-0" value="MDL-Based Local Density Estimation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="190" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EIHS-fEQ6KhHvIVZfYTv-2" value="Obtain&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EIHS-fEQ6KhHvIVZfYTv-2" value="Obtain estimated PDF of P(x|H&lt;sub&gt;0&lt;/sub&gt;) and P(x|H&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="190" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
