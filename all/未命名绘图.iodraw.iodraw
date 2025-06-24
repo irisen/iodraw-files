@@ -46,7 +46,7 @@
         <mxCell id="EIHS-fEQ6KhHvIVZfYTv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EIHS-fEQ6KhHvIVZfYTv-0" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EIHS-fEQ6KhHvIVZfYTv-0" value="MDL-Based Local Density Estimation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EIHS-fEQ6KhHvIVZfYTv-0" value="MDL-based local density estimation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="170" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EIHS-fEQ6KhHvIVZfYTv-2" value="Obtain estimated PDF of P(x|H&lt;sub style=&quot;font-size: 14px;&quot;&gt;0&lt;/sub&gt;) and P(x|H&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;1&lt;/sub&gt;&lt;/span&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
