@@ -52,8 +52,8 @@
         <mxCell id="EIHS-fEQ6KhHvIVZfYTv-2" value="Obtain estimated PDF of P(x|H&lt;sub style=&quot;font-size: 14px;&quot;&gt;0&lt;/sub&gt;) and P(x|H&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;1&lt;/sub&gt;&lt;/span&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="170" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EIHS-fEQ6KhHvIVZfYTv-5" value="Training data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="90" width="120" height="40" as="geometry" />
+        <mxCell id="EIHS-fEQ6KhHvIVZfYTv-5" value="&lt;span style=&quot;font-size: 11pt; line-height: 115%;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Get likelihood ratio&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="290" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
